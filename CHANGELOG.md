@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.1](https://github.com/benletchford/ppc-rs/compare/ppc-v0.7.0...ppc-v0.7.1) (2026-10-07)
+
+
+### Bug Fixes
+
+* **ppc:** defer traces until native callbacks return ([#78](https://github.com/benletchford/ppc-rs/issues/78)) ([ad4b726](https://github.com/benletchford/ppc-rs/commit/ad4b726c66744c82a4416b61862090f9ed44772e))
+
 ## [0.7.0](https://github.com/benletchford/ppc-rs/compare/ppc-v0.6.6...ppc-v0.7.0) (2026-10-06)
 
 
